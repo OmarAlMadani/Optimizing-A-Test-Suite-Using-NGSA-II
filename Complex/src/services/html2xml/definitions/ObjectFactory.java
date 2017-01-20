@@ -1,0 +1,109 @@
+
+package services.html2xml.definitions;
+
+import javax.xml.bind.JAXBElement;
+import javax.xml.bind.annotation.XmlElementDecl;
+import javax.xml.bind.annotation.XmlRegistry;
+import javax.xml.namespace.QName;
+
+
+/**
+ * This object contains factory methods for each 
+ * Java content interface and Java element interface 
+ * generated in the services.calculator.definitions package. 
+ * <p>An ObjectFactory allows you to programatically 
+ * construct new instances of the Java representation 
+ * for XML content. The Java representation of XML 
+ * content can consist of schema derived interfaces 
+ * and classes representing the binding of schema 
+ * type definitions, element declarations and model 
+ * groups.  Factory methods for each of these are 
+ * provided in this class.
+ * 
+ */
+@XmlRegistry
+public class ObjectFactory {
+
+    private final static QName _Int_QNAME = new QName("http://tempuri.org/", "int");
+
+    /**
+     * Create a new ObjectFactory that can be used to create new instances of schema derived classes for package: services.calculator.definitions
+     * 
+     */
+    public ObjectFactory() {
+    }
+
+    /**
+     * Create an instance of {@link SubtractResponse }
+     * 
+     */
+    public SubtractResponse createSubtractResponse() {
+        return new SubtractResponse();
+    }
+
+    /**
+     * Create an instance of {@link Multiply }
+     * 
+     */
+    public Multiply createMultiply() {
+        return new Multiply();
+    }
+
+    /**
+     * Create an instance of {@link Subtract }
+     * 
+     */
+    public Subtract createSubtract() {
+        return new Subtract();
+    }
+
+    /**
+     * Create an instance of {@link Divide }
+     * 
+     */
+    public Divide createDivide() {
+        return new Divide();
+    }
+
+    /**
+     * Create an instance of {@link Add }
+     * 
+     */
+    public Add createAdd() {
+        return new Add();
+    }
+
+    /**
+     * Create an instance of {@link AddResponse }
+     * 
+     */
+    public AddResponse createAddResponse() {
+        return new AddResponse();
+    }
+
+    /**
+     * Create an instance of {@link MultiplyResponse }
+     * 
+     */
+    public MultiplyResponse createMultiplyResponse() {
+        return new MultiplyResponse();
+    }
+
+    /**
+     * Create an instance of {@link DivideResponse }
+     * 
+     */
+    public DivideResponse createDivideResponse() {
+        return new DivideResponse();
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link Integer }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://tempuri.org/", name = "int")
+    public JAXBElement<Integer> createInt(Integer value) {
+        return new JAXBElement<Integer>(_Int_QNAME, Integer.class, null, value);
+    }
+
+}

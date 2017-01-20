@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <definitions 
+ xmlns="http://schemas.xmlsoap.org/wsdl/" 
+ xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" 
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+ xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" name="Calculator" targetNamespace="http%3A%2F%2Flocalhost%3A11305%2FCalculatorService%2FCalculator" xmlns:tns="http%3A%2F%2Flocalhost%3A11305%2FCalculatorService%2FCalculator" xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:wsoma="http://schemas.xmlsoap.org/ws/2004/09/policy/optimizedmimeserialization" 
+ >
+    <message name="add"/>
+    <message name="addResponse"/>
+    <message name="NumberFault"/>
+    <message name="subtract"/>
+    <message name="subtractResponse"/>
+    <message name="multiply"/>
+    <message name="multiplyResponse"/>
+    <message name="divide"/>
+    <message name="divideResponse"/>
+    <message name="isGraterThan"/>
+    <message name="isGraterThanResponse"/>
+    <message name="isLessThan"/>
+    <message name="isLessThanResponse"/>
+    <message name="isEqualTo"/>
+    <message name="isEqualToResponse"/>
+    <message name="xOR"/>
+    <message name="xORResponse"/>
+    <message name="xAND"/>
+    <message name="xANDResponse"/>
+    <portType name="Calculator">
+        <operation name="add">
+            <input message="tns:add"/>
+            <output message="tns:addResponse"/>
+            <fault name="NumberFault" message="tns:NumberFault"/>
+        </operation>
+        <operation name="subtract">
+            <input message="tns:subtract"/>
+            <output message="tns:subtractResponse"/>
+            <fault name="NumberFault" message="tns:NumberFault"/>
+        </operation>
+        <operation name="multiply">
+            <input message="tns:multiply"/>
+            <output message="tns:multiplyResponse"/>
+            <fault name="NumberFault" message="tns:NumberFault"/>
+        </operation>
+        <operation name="divide">
+            <input message="tns:divide"/>
+            <output message="tns:divideResponse"/>
+            <fault name="NumberFault" message="tns:NumberFault"/>
+        </operation>
+        <operation name="isGraterThan">
+            <input message="tns:isGraterThan"/>
+            <output message="tns:isGraterThanResponse"/>
+            <fault name="NumberFault" message="tns:NumberFault"/>
+        </operation>
+        <operation name="isLessThan">
+            <input message="tns:isLessThan"/>
+            <output message="tns:isLessThanResponse"/>
+            <fault name="NumberFault" message="tns:NumberFault"/>
+        </operation>
+        <operation name="isEqualTo">
+            <input message="tns:isEqualTo"/>
+            <output message="tns:isEqualToResponse"/>
+            <fault name="NumberFault" message="tns:NumberFault"/>
+        </operation>
+        <operation name="xOR">
+            <input message="tns:xOR"/>
+            <output message="tns:xORResponse"/>
+            <fault name="NumberFault" message="tns:NumberFault"/>
+        </operation>
+        <operation name="xAND">
+            <input message="tns:xAND"/>
+            <output message="tns:xANDResponse"/>
+            <fault name="NumberFault" message="tns:NumberFault"/>
+        </operation>
+    </portType>
+    <binding name="CalculatorPortBinding" type="tns:Calculator">
+        <wsp:PolicyReference URI="#CalculatorPortBindingPolicy"/>
+        <operation name="add">
+            <input/>
+            <output/>
+            <fault name="NumberFault"/>
+        </operation>
+        <operation name="subtract">
+            <input/>
+            <output/>
+            <fault name="NumberFault"/>
+        </operation>
+        <operation name="multiply">
+            <input/>
+            <output/>
+            <fault name="NumberFault"/>
+        </operation>
+        <operation name="divide">
+            <input/>
+            <output/>
+            <fault name="NumberFault"/>
+        </operation>
+        <operation name="isGraterThan">
+            <input/>
+            <output/>
+            <fault name="NumberFault"/>
+        </operation>
+        <operation name="isLessThan">
+            <input/>
+            <output/>
+            <fault name="NumberFault"/>
+        </operation>
+        <operation name="isEqualTo">
+            <input/>
+            <output/>
+            <fault name="NumberFault"/>
+        </operation>
+        <operation name="xOR">
+            <input/>
+            <output/>
+            <fault name="NumberFault"/>
+        </operation>
+        <operation name="xAND">
+            <input/>
+            <output/>
+            <fault name="NumberFault"/>
+        </operation>
+    </binding>
+    <service name="Calculator">
+        <port name="CalculatorPort" binding="tns:CalculatorPortBinding"/>
+    </service>
+    <wsp:Policy wsu:Id="CalculatorPortBindingPolicy">
+        <wsp:ExactlyOne>
+            <wsp:All>
+                <wsoma:OptimizedMimeSerialization/>
+            </wsp:All>
+        </wsp:ExactlyOne>
+    </wsp:Policy>
+</definitions>

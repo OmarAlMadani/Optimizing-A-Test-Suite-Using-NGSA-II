@@ -1,0 +1,3333 @@
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+add , case : left < 0 || right < 0 
+isEqualTo , case : right == left 
+xOR , case : left == false || right == false 
+add , case : left > 0 && right > 0 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+isLessThan , case : right < left 
+xOR , case : left == false || right == false 
+add , case : left < 0 || right < 0 
+isLessThan , case : right < left 
+isGreaterThan , case: right <= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+xOR , case : ! (left == false || right == false ) 
+isEqualTo , case : !(right == left) 
+xOR , case : ! (left == false || right == false ) 
+add , case : left > 0 && right > 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : ! (left == true && right == true ) 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : ! (left == true && right == true ) 
+isLessThan , case : right < left 
+isLessThan , case : right >= left 
+xOR , case : ! (left == false || right == false ) 
+isLessThan , case : right < left 
+isLessThan , case : right < left 
+xOR , case : left == false || right == false 
+xAND , case : ! (left == true && right == true ) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : left == true && right == true 
+add , case : left < 0 || right < 0 
+add , case : left > 0 && right > 0 
+multiply , case : left > 0 && right > 0 
+add , case : left > 0 && right > 0 
+subtract , case : left < right 
+isLessThan , case : right < left 
+add , case : left > 0 && right > 0 
+isEqualTo , case : !(right == left) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : right >= left 
+isLessThan , case : right >= left 
+xAND , case : ! (left == true && right == true ) 
+add , case : left < 0 || right < 0 
+add , case : left < 0 || right < 0 
+isLessThan , case : ri
